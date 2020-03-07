@@ -22,7 +22,7 @@ The demo software displays the following events or notifications when the coores
 
 Notifications are only diplayed when application is running in the background.  
 Notifications are delayed by 5 seconds, giving time to go to the Home screen and waiting to show the event.  
-Notifications are also displayed even if the screen has truned off - as long as the application is still running.
+Notifications are also displayed even if the screen has turned off - as long as the application is still running.
 
 ### Status Line
 
