@@ -2,7 +2,7 @@
 
 ## Hardware - ESP32 based board
 
-It is a Wemos Lolin32 device - https://wiki.wemos.cc/products:lolin32:lolin32)  
+It is a Wemos Lolin32 device - https://wiki.wemos.cc/products:lolin32:lolin32  
 There is a circuit diagram there.
 
 Can be powered by the +5V and GND pins next to the Lipo battery connector.
