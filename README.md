@@ -7,7 +7,7 @@ There is a circuit diagram there.
 
 Can be powered by the +5V and GND pins next to the Lipo battery connector.
 
-It has been configured that both GPIO pins have internal pull up resistors and best used with an open drain or relay to GND.
+It has been configured that both GPIO pins have internal pull up resistors and best used with an open drain/collector device or relay to GND.
 
 _WARNING_: All of the IO pins run at 3.3V. Good chance the device will be destroyed if a voltage outside +3.3V and 0V is applied to the pins.
 
